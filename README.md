@@ -11,8 +11,8 @@ A cutting-edge, full-stack Learning Management System powered by AI technology, 
 
 ## 🚀 Live Demo
 
-- **Student Portal:** [[Your LMS Live URL](https://projectlms-1.onrender.com)]
-- **Instructor Dashboard:** [[Your LMS Admin URL](https://projectlms-1.onrender.com)]
+- **Student Portal:** [[LMS Live URL](https://projectlms-1.onrender.com)]
+- **Instructor Dashboard:** [[LMS Admin URL](https://projectlms-1.onrender.com)]
 - **AI Course Discovery:** Try voice search: "Find me JavaScript courses"
 - **Demo Credentials:**
   - Student: `student@demo.com` / `demo123`
